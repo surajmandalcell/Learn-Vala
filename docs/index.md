@@ -1,0 +1,1 @@
+# Valadoc Easy Mode
